@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coordinate", "Coordinate\Coordinate.vcxproj", "{1EA518FF-9764-4B12-9434-9F3ED274F20B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C5275418-C3D8-40CB-A27A-DAA0937867C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA518FF-9764-4B12-9434-9F3ED274F20B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EA518FF-9764-4B12-9434-9F3ED274F20B}.Debug|Win32.Build.0 = Debug|Win32
+		{1EA518FF-9764-4B12-9434-9F3ED274F20B}.Release|Win32.ActiveCfg = Release|Win32
+		{1EA518FF-9764-4B12-9434-9F3ED274F20B}.Release|Win32.Build.0 = Release|Win32
+		{C5275418-C3D8-40CB-A27A-DAA0937867C0}.Debug|Win32.ActiveCfg = Debug
+		{C5275418-C3D8-40CB-A27A-DAA0937867C0}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
